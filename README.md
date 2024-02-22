@@ -1,4 +1,4 @@
-# cardic-patient-clustering
+# cardiac-patient-clustering
 clustering by getting help from Large Language models
 I recently read an article about combining large language models (LLM) with the K-means technique for clustering datasets. This article inspired me to implement this way on medical datasets
 Today I would like to implement K-means and the combination of K-means and LLM, then I compare the results, and you will see the combination of them is much better than alone.
